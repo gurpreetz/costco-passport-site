@@ -12,25 +12,19 @@ Please add the following screenshots to this directory:
 - Include the "Center on Me" button
 - **Recommended screen**: Map with 5-10 visible locations
 
-### 2. `location-detail.png`
-- Location detail sheet view
-- Show warehouse information and address
-- Include visit status indicator
-- **Recommended screen**: Detail view of a visited location with data
-
-### 3. `check-in.png`
+### 2. `check-in.png`
 - Check-in interface
 - Show the favorite items input field
 - Display location name and map preview
 - **Recommended screen**: Active check-in at a warehouse
 
-### 4. `statistics.png`
+### 3. `statistics.png`
 - Statistics dashboard
 - Show visit counts, states visited
 - Display progress percentages
 - **Recommended screen**: Statistics with some real data (not empty)
 
-### 5. `achievements.png`
+### 4. `achievements.png`
 - Achievements view
 - Show mix of locked and unlocked achievements
 - Include achievement descriptions
@@ -91,7 +85,6 @@ After adding screenshots, open `index.html` in a browser to verify they display 
 ## Current Status
 
 - [ ] map-view.png
-- [ ] location-detail.png
 - [ ] check-in.png
 - [ ] statistics.png
 - [ ] achievements.png

@@ -7,7 +7,6 @@ Use this checklist to track your progress in launching the Costco Passport websi
 Before deploying, take these screenshots in Xcode:
 
 - [ ] **Map View** - Main map with pins (mix of visited/unvisited)
-- [ ] **Location Detail** - Detail sheet for a warehouse
 - [ ] **Check-In** - Check-in screen with favorite items
 - [ ] **Statistics** - Stats dashboard with data
 - [ ] **Achievements** - Achievements view (some unlocked)
