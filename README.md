@@ -115,7 +115,7 @@ This website is independent and not affiliated with Costco Wholesale Corporation
 
 ## 📧 Contact
 
-For questions: support@costcopassport.app
+For questions: gurpreet.appdev@myyahoo.com
 
 ---
 
