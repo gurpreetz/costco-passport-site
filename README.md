@@ -4,7 +4,7 @@ Marketing website for the Costco Passport iOS app, built with HTML, CSS, and Jav
 
 ## 🌐 Live Site
 
-Visit: [Your GitHub Pages URL]
+Visit: [https://gurpreetz.github.io/costco-passport-site/](https://gurpreetz.github.io/costco-passport-site/)
 
 ## 📱 About Costco Passport
 
